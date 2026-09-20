@@ -23,12 +23,12 @@ The 262 slide sections retain source order, including repeated slides. PDF extra
 
 | Reading | Original | Searchable extract |
 | --- | --- | --- |
-| The Earth System — Chapter 3 | [PDF](readings/The_Earth_System_Chapter_3.pdf) | Pending |
-| The Earth System — Chapter 4 | [PDF](readings/The_Earth_System_Chapter_4.pdf) | Pending |
-| The Earth System — Chapter 5 | [PDF](readings/The_Earth_System_Chapter_5.pdf) | Pending |
-| Ahrens — Meteorology Today | [PDF](readings/AhrensMeteorologyToday.pdf) | Pending; organize by chapter or section |
+| The Earth System — Chapter 3 | [PDF](readings/The_Earth_System_Chapter_3.pdf) | [Full extract](extract-readings/The_Earth_System_Chapter_3.md) |
+| The Earth System — Chapter 4 | [PDF](readings/The_Earth_System_Chapter_4.pdf) | [Full extract](extract-readings/The_Earth_System_Chapter_4.md) |
+| The Earth System — Chapter 5 | [PDF](readings/The_Earth_System_Chapter_5.pdf) | [Full extract](extract-readings/The_Earth_System_Chapter_5.md) |
+| Ahrens — Meteorology Today | [PDF](readings/AhrensMeteorologyToday.pdf) | [Full book index and extracts](extract-readings/AhrensMeteorologyToday/Index.md) |
 
-Titles above follow the supplied filenames; bibliographic details and assigned page ranges still need checking.
+The three Earth System PDFs are scanned and OCR text needs source verification for exact symbols and small labels. Chapter 5 omits printed pages 90?91 and duplicates printed page 95; see its extract. All 621 pages of the supplied textbook are included. See the [reading extraction notes](extract-readings/README.md).
 
 ## Vault layout
 
@@ -38,13 +38,13 @@ Titles above follow the supplied filenames; bibliographic details and assigned p
 | `readings/` | Original books, chapters, and extra readings |
 | `syllabus/` | Original syllabus and course administration files |
 | [extract-slides/](extract-slides/README.md) | Searchable lecture text, organized by slide |
-| [extract-readings/](extract-readings/README.md) | Searchable reading text, organized by source and chapter |
+| [extract-readings/](extract-readings/README.md) | Full searchable reading text, organized by source and chapter, with descriptions of important graphics |
 | [reference/](reference/README.md) | Syllabus extract, glossary, and quick reference material |
 
 ## Adding material
 
 Place new originals in the matching source folder and add links here. Keep source files unchanged. Extracts should link back to their original and retain slide or page references.
 
-For the long reading, keep the original book as one file. Later, create a reading index and separate extracts by chapter or section so individual topics remain easy to navigate. Record both PDF page numbers and printed page numbers when they differ.
+For long readings, keep the original book intact and provide a reading index with separate chapter or section extracts. Record both PDF page numbers and printed page numbers when they differ.
 
-Current status: Lectures 1–5 extracted and visually reviewed. Reading and syllabus extraction are pending.
+Current status: Lectures 1–5 extracted and visually reviewed. All four supplied readings are fully extracted; see [reading extraction notes](extract-readings/README.md). Syllabus review remains pending.
