@@ -28,22 +28,23 @@ The 647 slide sections retain source order, including repeated slides. PDF extra
 
 | Assignment | Original | Extract |
 | --- | --- | --- |
+| Assignment #1 | [PDF](ESYS104-Assignment1-2026.pdf) | Not extracted |
 | Assignment #2 — due October 19, 2026 | [PDF](ESYS104-Assignment2_2026.pdf) | [Text and figures](reference/ESYS104-Assignment2_2026.md) |
 
 ## Readings
 
 | Reading | Original | Searchable extract |
 | --- | --- | --- |
-| The Earth System — Chapter 3 | [PDF](readings/The_Earth_System_Chapter_3.pdf) | Pending |
-| The Earth System — Chapter 4 | [PDF](readings/The_Earth_System_Chapter_4.pdf) | Pending |
-| The Earth System — Chapter 5 | [PDF](readings/The_Earth_System_Chapter_5.pdf) | Pending |
-| Ahrens — Meteorology Today | [PDF](readings/AhrensMeteorologyToday.pdf) | Pending; organize by chapter or section |
+| The Earth System — Chapter 3 | [PDF](readings/The_Earth_System_Chapter_3.pdf) | [Full extract](extract-readings/The_Earth_System_Chapter_3.md) |
+| The Earth System — Chapter 4 | [PDF](readings/The_Earth_System_Chapter_4.pdf) | [Full extract](extract-readings/The_Earth_System_Chapter_4.md) |
+| The Earth System — Chapter 5 | [PDF](readings/The_Earth_System_Chapter_5.pdf) | [Full extract](extract-readings/The_Earth_System_Chapter_5.md) |
+| Ahrens — Meteorology Today | [PDF](readings/AhrensMeteorologyToday.pdf) | [Full book index and extracts](extract-readings/AhrensMeteorologyToday/Index.md) |
 | Strahler — Modern Physical Geography, Ch. 9 (+ Ch. 16 ground-water pages) | [PDF](readings/Strahler_Modern_Physical_Geography_Chapter9.pdf) | [24 pages, OCR](extract-readings/Strahler_Modern_Physical_Geography_Chapter9.md) |
 | Folke et al. 2004 — Regime shifts, resilience, and biodiversity | [PDF](<readings/Folke_etal_2004 regime shifts and resilience.pdf>) | [27 pages](<extract-readings/Folke_etal_2004 regime shifts and resilience.md>) |
 | Foley et al. 2003 — Regime shifts in the Sahara and Sahel | [PDF](<readings/Foley 2003 regime shifts.pdf>) | [16 pages](<extract-readings/Foley 2003 regime shifts.md>) |
 | ESA — What are ecosystem services? | [PDF](readings/ecosystemservices.pdf) | [2 pages](extract-readings/ecosystemservices.md) |
 
-Titles above follow the supplied filenames; bibliographic details and assigned page ranges still need checking.
+The three Earth System PDFs are scanned and OCR text needs source verification for exact symbols and small labels. Chapter 5 omits printed pages 90–91 and duplicates printed page 95; see its extract. All 621 pages of the supplied textbook are included. The Strahler scan is also OCR text. See the [reading extraction notes](extract-readings/README.md).
 
 ## Vault layout
 
@@ -53,13 +54,13 @@ Titles above follow the supplied filenames; bibliographic details and assigned p
 | `readings/` | Original books, chapters, and extra readings |
 | `syllabus/` | Original syllabus and course administration files |
 | [extract-slides/](extract-slides/README.md) | Searchable lecture text, organized by slide |
-| [extract-readings/](extract-readings/README.md) | Searchable reading text, organized by source and chapter |
+| [extract-readings/](extract-readings/README.md) | Full searchable reading text, organized by source and chapter, with descriptions of important graphics |
 | [reference/](reference/README.md) | Syllabus extract, glossary, and quick reference material |
 
 ## Adding material
 
 Place new originals in the matching source folder and add links here. Keep source files unchanged. Extracts should link back to their original and retain slide or page references.
 
-For the long reading, keep the original book as one file. Later, create a reading index and separate extracts by chapter or section so individual topics remain easy to navigate. Record both PDF page numbers and printed page numbers when they differ.
+For long readings, keep the original book intact and provide a reading index with separate chapter or section extracts. Record both PDF page numbers and printed page numbers when they differ.
 
-Current status: Lectures 1–10 extracted and visually reviewed. Four readings extracted (Strahler by OCR); The Earth System chapters, Ahrens, and the syllabus are pending. Assignment #2 extracted.
+Current status: Lectures 1–10 extracted and visually reviewed. All eight supplied readings are extracted (The Earth System chapters 3–5, Ahrens, Strahler, Folke, Foley, ESA); see [reading extraction notes](extract-readings/README.md). Assignment #2 extracted. Syllabus review remains pending.
