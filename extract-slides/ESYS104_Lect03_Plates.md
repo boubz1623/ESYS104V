@@ -4,7 +4,7 @@
 
 > Source: [original ODP](<../slides/ESYS104_Lect03_Plates.odp>). 58 slides.
 
-Text and embedded figures are extracted directly from the ODP. Slide order and source wording are retained. Figures below are original embedded assets, not full-slide previews; positions, crops, arrows, and other drawing objects remain in the ODP. PowerPoint conversion was checked and rejected because it omitted content. Speaker-note page-number placeholders are excluded. These are source extracts, not study notes.
+Text and embedded figures are extracted directly from the ODP. Slide order and source wording are retained. Figures below are original embedded assets, not full-slide previews; positions, crops, arrows, and other drawing objects remain in the ODP. PowerPoint conversion was checked and rejected because it omitted content. Visual descriptions use the embedded figures together with slide text and the ODP object positions, crops, and drawing geometry; they are editorial descriptions, not instructor quotations. Speaker-note page-number placeholders are excluded. These are source extracts, not study notes.
 
 ## Slide 1
 

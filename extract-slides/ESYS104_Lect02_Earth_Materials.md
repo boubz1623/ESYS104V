@@ -4,7 +4,7 @@
 
 > Source: [original lecture](<../slides/ESYS104_Lect02_Earth_Materials.pdf>). 60 slides.
 
-Slide numbers follow source order. Text below is extracted from the original file; source wording and spelling are retained. The text layer can contain hidden or covered text; the slide image shows what is visible. Each slide image preserves figures, layout, and text embedded in images. Image text is searchable only where a labelled visual transcription is included. Repeated slides are retained. These are source extracts, not study notes.
+Slide numbers follow source order. Text below is extracted from the original file; source wording and spelling are retained. The text layer can contain hidden or covered text; the slide image shows what is visible. Each slide image preserves figures, layout, and text embedded in images. Image text is searchable only where a labelled visual transcription is included. Labelled visual descriptions explain the visible content and relationships; they are editorial descriptions, not instructor quotations. Repeated slides are retained. These are source extracts, not study notes.
 
 ## Slide 1
 
