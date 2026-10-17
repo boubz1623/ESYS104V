@@ -2,13 +2,13 @@
 
 [Back to course index](../Course-KB.md) · [Reference material](README.md)
 
-> Source: [original PDF](<../ESYS104-Assignment2_2026.pdf>). 3 pages. **Due October 19, 2026.**
+> Source: [original PDF](<../assignments/ESYS104-Assignment2_2026.pdf>). 3 pages. **Due October 19, 2026.**
 
 Text below is the assignment's wording, with the PDF's broken quote and degree characters restored. Labelled figure descriptions are editorial descriptions of the figures; they are not answers. Page images are authoritative.
 
 ## Page 1
 
-[Original page](<../ESYS104-Assignment2_2026.pdf#page=1>)
+[Original page](<../assignments/ESYS104-Assignment2_2026.pdf#page=1>)
 
 ![Page 1](<assets/ESYS104-Assignment2_2026/page-1.png>)
 
@@ -30,7 +30,7 @@ b) Would you say that the Polar Vortex (circulation in the polar cell of the thr
 
 ## Page 2
 
-[Original page](<../ESYS104-Assignment2_2026.pdf#page=2>)
+[Original page](<../assignments/ESYS104-Assignment2_2026.pdf#page=2>)
 
 ![Page 2](<assets/ESYS104-Assignment2_2026/page-2.png>)
 
@@ -67,7 +67,7 @@ Watch the following videos (from 'Minute Earth') and answer the question (1-3 se
 
 ## Page 3
 
-[Original page](<../ESYS104-Assignment2_2026.pdf#page=3>)
+[Original page](<../assignments/ESYS104-Assignment2_2026.pdf#page=3>)
 
 ![Page 3](<assets/ESYS104-Assignment2_2026/page-3.png>)
 
