@@ -28,8 +28,8 @@ The 647 slide sections retain source order, including repeated slides. PDF extra
 
 | Assignment | Original | Extract |
 | --- | --- | --- |
-| Assignment #1 | [PDF](ESYS104-Assignment1-2026.pdf) | Not extracted |
-| Assignment #2 — due October 19, 2026 | [PDF](ESYS104-Assignment2_2026.pdf) | [Text and figures](reference/ESYS104-Assignment2_2026.md) |
+| Assignment #1 | [PDF](assignments/assignment-1/ESYS104-Assignment1-2026.pdf) | Not extracted |
+| Assignment #2 — due October 19, 2026 | [PDF](assignments/assignment-2/ESYS104-Assignment2_2026.pdf) | [Text and figures](reference/ESYS104-Assignment2_2026.md) |
 
 ## Readings
 
